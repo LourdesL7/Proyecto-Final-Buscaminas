@@ -5,5 +5,5 @@
 ## Tecnologías utilizadas
 #### Visual studio Code: Programación del videojuego 
 #### EarSketch: Creación de música original
-#### Python: Lenguajes de programación
+#### Python: Lenguaje de programación
 #### Design Thinking: Proceso de diseño del proyecto 
